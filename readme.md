@@ -1,4 +1,5 @@
 #Larry Plotter
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Aberto Casero**, Git love
+**Aberto Casero**, Git & Larry Plotter lover
+
